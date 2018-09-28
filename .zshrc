@@ -12,7 +12,7 @@ if [[ -n $SSH_CONNECTION ]]; then
   export EDITOR='vim'
   export TERM="putty-256color"
 else
-  export EDITOR='mvim'
+  export EDITOR='vim'
   export TERM="xterm-256color"
 fi
 
