@@ -114,7 +114,7 @@ source $ZSH/oh-my-zsh.sh
 alias ls='ls --color=auto'
 
 ## Use a long listing format ##
-alias ll='ls -la'
+alias ll='ls -lA --color=auto'
 
 ## Show hidden files ##
 alias l.='ls -d .* --color=auto'
