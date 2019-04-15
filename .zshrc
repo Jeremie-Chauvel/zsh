@@ -74,7 +74,7 @@ ZSH_THEME="robbyrussell"
 plugins=(
   git
   zsh-autosuggestions
-  colored-man_pages
+  colored-man-pages
   z
   zsh-syntax-highlighting
 )
